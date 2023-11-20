@@ -7,6 +7,7 @@
 - JavaScript & React: Bringing interactivity and sleek user experiences to life on the front end
 - Learning & Collaborating: Always eager to learn more and collaborate on projects that challenge me to grow
 - C# & Unity: Developing engaging and interactive games with Unity and C#
+- Machine Learning with Python: Applying Python and scikit-learn library for machine learning solutions in kaggle
 
 📫 Reach out to me ostrovsr@sheridancollege.ca for:
 - Collaborations on innovative software development projects
