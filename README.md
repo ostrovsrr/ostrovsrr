@@ -1,7 +1,7 @@
 👋 Hey there! I'm Rodion Ostrovskii
 
 🌐 Portfolio website:
-https://ostrovsrr.github.io/portfolio/
+https://rodion-ostrovskii.com/
 
 🌟 What I'm all about:
 - MERN Stack: Full Stack Web Development
